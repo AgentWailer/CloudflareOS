@@ -171,6 +171,8 @@ This differs from most agent harnesses, where MCP servers are configured upfront
 
 ## Get Started
 
+For this personal copy, see [Dein Cloudflare OS (Deutsch)](docs/personal-setup.de.md).
+
 ### Deploy to your Cloudflare account
 
 We've built an online flow that helps you deploy to your own Cloudflare account:
